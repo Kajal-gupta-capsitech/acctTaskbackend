@@ -1,0 +1,101 @@
+Account Code,Account Name,Debit,Credit
+1/1,Sales - domestic,0,18500
+1/2,Sales - export,0,24300
+1/3,Service income,0,12600
+1/4,Consulting income,0,9800
+1/5,Commission income,0,4200
+1/6,Interest income,0,1750
+1/7,Other operating income,0,3150
+1/8,Rental income,0,5600
+1/9,VAT flat rate adjustment,0,1250
+1/10,Discount received,0,860
+1/11,Cash sales,0,7350
+1/12,Miscellaneous income,0,2190
+1/13,Dividend income,0,4100
+1/14,Gain on disposal of asset,0,2850
+1/15,Other income,0,1640
+1/16,Purchase discounts received,0,930
+1/17,Insurance claim income,0,2750
+1/18,Foreign exchange gain,0,1980
+1/19,Rebate received,0,1220
+1/20,Sales commission recovered,0,1840
+1/21,Scrap sales income,0,760
+1/22,Warehouse rental income,0,3350
+1/23,Training income,0,2450
+1/24,Ancillary service income,0,3150
+1/25,Profit on investment,0,3900
+2/1,Opening stock - raw materials,8200,0
+2/2,Opening stock - work in progress,5400,0
+2/3,Opening stock - finished goods,9100,0
+2/4,Opening stock - merchandise,7600,0
+2/5,Purchases - raw materials,13200,0
+2/6,Purchases - finished goods,11800,0
+2/7,Purchases - merchandise,14600,0
+2/8,Purchase returns,0,1650
+2/9,Carriage inward,2350,0
+2/10,Freight inward,1880,0
+2/11,Import duty,2750,0
+2/12,Factory consumables,3250,0
+2/13,Direct wages,6800,0
+2/14,Production expenses,4250,0
+2/15,Packaging expenses,2150,0
+2/16,Closing stock - raw materials,0,7200
+2/17,Closing stock - finished goods,0,10400
+2/18,Closing stock - merchandise,0,8700
+2/19,Cost of goods sold,9600,0
+2/20,Stock adjustment,2850,0
+2/21,Inventory write-off,1750,0
+2/22,Inventory valuation adjustment,0,1250
+2/23,Purchase price variance,1340,0
+2/24,Material consumption,8900,0
+2/25,Stock transfer adjustment,2160,0
+3/1,Office rent expense,4200,0
+3/2,Electricity expense,2850,0
+3/3,Telephone expense,980,0
+3/4,Internet expense,720,0
+3/5,Staff salaries,11200,0
+3/6,Staff bonus,3600,0
+3/7,Travel expense,2450,0
+3/8,Office stationery,860,0
+3/9,Printing expense,640,0
+3/10,Advertising expense,3150,0
+3/11,Repairs and maintenance,1780,0
+3/12,Insurance expense,1250,0
+3/13,Bank charges,460,0
+3/14,Professional fees,2250,0
+3/15,Legal fees,1800,0
+3/16,Audit fees,2100,0
+3/17,Software subscription,1450,0
+3/18,Depreciation expense,3200,0
+3/19,Bad debt expense,1750,0
+3/20,Delivery expense,1320,0
+3/21,Vehicle running expense,2380,0
+3/22,Fuel expense,1960,0
+3/23,Employee welfare,1180,0
+3/24,Training expense,1520,0
+3/25,Miscellaneous expense,930,0
+4/1,Cash in hand,6500,0
+4/2,Bank current account,28400,0
+4/3,Petty cash,1250,0
+4/4,Trade receivables,18600,0
+4/5,Other receivables,4350,0
+4/6,Prepaid expenses,2100,0
+4/7,Security deposits,5000,0
+4/8,Office equipment,7800,0
+4/9,Computer equipment,12600,0
+4/10,Furniture and fixtures,9400,0
+4/11,Motor vehicles,22500,0
+4/12,Accumulated depreciation - equipment,0,3150
+4/13,Accumulated depreciation - vehicles,0,5200
+4/14,Goodwill,7500,0
+4/15,Long-term investment,15000,0
+4/16,Loan receivable,8500,0
+4/17,Trade payables,0,14200
+4/18,Accrued expenses,0,3650
+4/19,VAT payable,0,2840
+4/20,PAYE / payroll taxes payable,0,1760
+4/21,Bank loan,0,18500
+4/22,Owner capital,0,30000
+4/23,Retained earnings,0,95390
+4/24,Owner drawings,4200,0
+4/25,Provision for tax,0,3250
